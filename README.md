@@ -1,4 +1,4 @@
-# Simulation-du-chevauchement-d-activit-s-clients-au-supermarch
+# Simulation_du_chevauchement_d_activites_clients_au_supermarche
 
 Ce projet vise à mesurer l’impact de l’ajout d’une 3ème caisse sur le nombre de clients perdu
 en se focalisant sur l’optimisation du taux d’occupation des ressources, la réduction des temps 
